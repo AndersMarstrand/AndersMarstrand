@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndersMarstrand
 - 👀 I’m interested in Python, ML and Data Science in general
-- 🌱 I’m currently learning Power BI
+- 🌱 I’m currently learning Power BI, DAX and advancing on SQL
 - 📫 How to reach me anders.jacobsen@bestseller.com
 
 <!---
